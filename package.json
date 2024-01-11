@@ -8,7 +8,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "pinia": "^2.1.7",
     "element-plus": "^2.5.1",
     "vue": "^3.4.8",
     "vue-router": "^4.2.5"
