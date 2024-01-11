@@ -34,10 +34,5 @@ export default defineConfig(({ mode }) => {
         },
       ]
     },
-    build: {
-      // 不输出 brotli 压缩后的体积，提高构建速度
-      // 服务端目前不支持此压缩方式
-      brotliSize: false
-    }
   }
 })
