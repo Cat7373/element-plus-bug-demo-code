@@ -1,0 +1,32 @@
+{
+  "name": "demo-web",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "serve": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^2.1.7",
+    "element-plus": "^2.5.1",
+    "vue": "^3.4.8",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.33",
+    "pug": "^3.0.2",
+    "unplugin-auto-import": "^0.17.3",
+    "sass": "^1.69.7",
+    "tailwindcss": "^3.4.1",
+    "unplugin-vue-components": "^0.26.0",
+    "vite": "^5.0.11"
+  },
+  "engineStrict": true,
+  "engines": {
+    "node": ">= 16.0",
+    "npm": ">= 7.0.0"
+  }
+}
